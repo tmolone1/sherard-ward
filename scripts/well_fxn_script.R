@@ -29,3 +29,5 @@ well_fxn(1e-3,20) # should be 6.33
 list_well_fxn(1:5,20)
 list_well_fxn(c(1e-10,1e-3,1,5),20)
 list_well_fxn(1:3,20)
+
+
